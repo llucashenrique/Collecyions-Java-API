@@ -1,4 +1,4 @@
-package list.basictasks;
+package list.basicoperations;
 
 public class Item {
 
