@@ -58,7 +58,7 @@ public class ContactSchedule {
         contactSchedule.addContact("Lucas", 12458);
         contactSchedule.addContact("Lucas", 5485);
         contactSchedule.addContact("Lucas Dio", 0);
-        contactSchedule.addContact("Vitor", 54557);
+        contactSchedule.addContact("Vitor", 414);
         contactSchedule.addContact("Marcos", 54544);
         contactSchedule.addContact("Maria", 0);
 
